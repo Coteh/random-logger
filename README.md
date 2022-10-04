@@ -2,6 +2,8 @@
 
 Docker image for a random log generator, based on Alpine Linux.
 
+This is a forked version that prints the logs in JSON format.
+
 ![release](https://github.com/chentex/random-logger/workflows/release/badge.svg)
 ![Docker Image Version (latest by date)](https://img.shields.io/docker/v/chentex/random-logger)
 
